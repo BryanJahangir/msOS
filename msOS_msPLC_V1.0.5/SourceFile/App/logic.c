@@ -178,7 +178,7 @@ void KeyProcess(KeyEnum key)
 
 static void AppSystick100(void)
 {
-
+    print("第二次提交...")
 }
 
 static void InitLogic(void)
